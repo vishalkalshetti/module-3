@@ -1,0 +1,43 @@
+#header-nav{
+	background-color:#827979;
+	border-radius: 0;
+	border: 2px solid black;
+}
+
+#header-nav h1{
+	font-weight: bold;
+	font-size: 3em;
+}
+
+#nav-list{
+	margin-top: 10px;
+}
+
+#nav-list a{
+	color: solid black;
+	text-align: center;
+	font-size: 1.8em;
+	background-color: white;
+}
+
+#nav-list a:hover{
+	background: #E7E7E7;
+}
+#nav-list a span{
+	font-size: 1.8em;
+}
+
+h2{
+	font-size: 30px;
+	font-weight: bold;
+}
+
+#chicken, #beef, #sushi{
+	background-color:#827979;
+	width:100%;
+	
+}
+h3{
+	font-size: 25px;
+	font-weight: bold;
+}
